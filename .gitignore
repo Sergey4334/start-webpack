@@ -1,0 +1,7 @@
+# Ignore folder
+.vscode/
+.ide/
+node_modules/
+# Files ignore
+package-lock.json
+
